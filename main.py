@@ -1,14 +1,2 @@
-# print hello world
-print("Hello World")
-
-# print goodbye
-print("Goodbye")
-
-# print new line
-print("I'm learning GitHub")
-
-# new function
-def add_two(num):
-  return num + 2
-
-print(add_two(2), add_two(5))
+# print text
+print("Now I know what git and github is easy!!")
